@@ -1,16 +1,13 @@
-### Hi there 👋
+## Welcome to my profile!
 
-<!--
-**Sudo-Ivan/Sudo-Ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do programming as a side hobby. Most of my time is spent in the intelligence world. 
 
-Here are some ideas to get you started:
+But I love learning new languages and keeping up with current ones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br></br>
+
+![Ivan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-Ivan&theme=tokyonight&layout=compact)
+
+**GitHub Stats🎯**<br>
+
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudo-Ivan)](https://github.com/Sudo-Ivan/github-readme-stats)
