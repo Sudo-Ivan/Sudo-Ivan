@@ -7,5 +7,3 @@ I've been trained in various programming languages and tactics, and I'm always r
 But don't let my serious demeanor fool you, I still enjoy a good laugh. Just not during a code review. Trust me, I've seen code that's scarier than a drill sergeant.
 
 So, grab a cup of coffee and browse through my repositories. But be careful, my code can be as unpredictable as a live-fire exercise.
-
-![Ivan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-Ivan&theme=tokyonight&layout=compact)
