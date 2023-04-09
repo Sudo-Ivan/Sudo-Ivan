@@ -1,7 +1,11 @@
-## Welcome to my profile!
+## At ease, soldier! Welcome to my coding barracks.
 
-I do programming as a side hobby. Most of my time is spent in the intelligence world. 
+I may not have actual combat experience, but I've been through enough coding battles to earn my stripes. And let me tell you, debugging can feel like a war zone sometimes.
 
-But I love learning new languages and keeping up with current ones.
+I've been trained in various programming languages and tactics, and I'm always ready for a new mission. Whether it's building an app or taking down a pesky bug, I'm always up for the challenge.
+
+But don't let my serious demeanor fool you, I still enjoy a good laugh. Just not during a code review. Trust me, I've seen code that's scarier than a drill sergeant.
+
+So, grab a cup of coffee and browse through my repositories. But be careful, my code can be as unpredictable as a live-fire exercise.
 
 ![Ivan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-Ivan&theme=tokyonight&layout=compact)
