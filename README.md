@@ -29,6 +29,12 @@ HTMX, Astro, Deno Fresh, NextJS, Phoenix Framework, React
 
 FastAPI, Flask, Rocket.rs
 
+# GUI
+
+- Iced
+- GTK4
+- Qt6
+
 # Databases
 
 Postgres, SurrealDB
