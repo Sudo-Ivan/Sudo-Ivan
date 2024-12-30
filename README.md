@@ -1,26 +1,25 @@
 LXMF: 3832c4ec19ac161a6c6e18baa5cff5cb
 
-
 # Current Focus
 
 ## Reticulum Network Projects
 
-- Reticulum-Go
-- LXMFy Bot Framework
-- Ren Browser
-- Aragonite Chat
+- [Reticulum-Go](https://github.com/Sudo-Ivan/Reticulum-Go)
+- [LXMFy Bot Framework](https://github.com/lxmfy/LXMFy)
+- [Ren Browser](https://github.com/Sudo-Ivan/Ren-Browser)
+- [Aragonite Client](https://quad4.io/projects/aragonite/)
 
 ## Other
 
-- Skiptrace
-- DTAC
-- Acoustic Drone Detection
+- [Skiptrace](https://quad4.io/projects/skiptrace/) 
+- [DTAC](https://quad4.io/projects/dtac/)
+- [Acoustic Drone Detection](https://gitlab.com/Sudo-Ivan/acoustic-drone-detection-gan)
 
 # Languages
 
 **Favorite langauges: C and Go**
 
-Rust, Python, Go, Dart, C, Zig
+[Rust](https://github.com/search?q=owner%3ASudo-Ivan+language%3ARust+&type=repositories), [Python](https://github.com/search?q=owner%3ASudo-Ivan+language%3APython+&type=repositories), [Go](https://github.com/search?q=owner%3ASudo-Ivan+language%3AGo+&type=repositories), Dart, [C](https://github.com/search?q=owner%3ASudo-Ivan+language%3AC+&type=repositories), [Zig](https://github.com/search?q=owner%3ASudo-Ivan+language%3AZig+&type=repositories)
 
 # Web Frameworks
 
