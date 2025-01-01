@@ -9,6 +9,9 @@ LXMF: 3832c4ec19ac161a6c6e18baa5cff5cb
 - [Ren Browser](https://github.com/Sudo-Ivan/Ren-Browser)
 - [Aragonite Client](https://quad4.io/projects/aragonite/)
 
+## Web Servers
+- [Zapped](https://github.com/Sudo-Ivan/Zapped)
+
 ## Other
 
 - [Skiptrace](https://quad4.io/projects/skiptrace/) 
