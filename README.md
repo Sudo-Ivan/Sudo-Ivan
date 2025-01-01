@@ -1,4 +1,4 @@
-LXMF: 3832c4ec19ac161a6c6e18baa5cff5cb
+LXMF: 7c893f9552bb73bf6d8271259bda3fcb
 
 # Current Focus
 
