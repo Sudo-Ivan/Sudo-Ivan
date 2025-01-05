@@ -6,8 +6,6 @@ LXMF: 7c893f9552bb73bf6d8271259bda3fcb
 
 - [Reticulum-Go](https://github.com/Sudo-Ivan/Reticulum-Go)
 - [LXMFy Bot Framework](https://github.com/lxmfy/LXMFy)
-- [Ren Browser](https://github.com/Sudo-Ivan/Ren-Browser)
-- [Aragonite Client](https://quad4.io/projects/aragonite/)
 
 ## Web Servers
 - [Zapped](https://github.com/Sudo-Ivan/Zapped)
