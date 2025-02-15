@@ -1,5 +1,3 @@
-LXMF: 7c893f9552bb73bf6d8271259bda3fcb
-
 # Current Focus
 
 ## Reticulum Network Projects
