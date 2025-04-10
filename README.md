@@ -1,5 +1,3 @@
-# Current Focus
-
 ## Reticulum Network Projects
 
 - [Reticulum-Go](https://github.com/Sudo-Ivan/Reticulum-Go)
