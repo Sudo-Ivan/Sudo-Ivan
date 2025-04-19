@@ -3,6 +3,10 @@
 - [Reticulum-Go](https://github.com/Sudo-Ivan/Reticulum-Go)
 - [LXMFy Bot Framework](https://github.com/lxmfy/LXMFy)
 
+## OSINT
+
+- [OSM-Feature-Search](https://github.com/Sudo-Ivan/OSM-Feature-Search)
+
 # Donations
 
 Ko-Fi: https://ko-fi.com/X8X610E5JL
