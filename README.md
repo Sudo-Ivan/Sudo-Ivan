@@ -3,6 +3,10 @@
 - [Reticulum-Go](https://github.com/Sudo-Ivan/Reticulum-Go)
 - [LXMFy Bot Framework](https://github.com/lxmfy/LXMFy)
 
+### Custom Forks
+
+- [NomadNet](https://github.com/Sudo-Ivan/NomadNet) - Rootless, Chainguard images, Resource limits. 
+
 ## OSINT
 
 - [OSM-Feature-Search](https://github.com/Sudo-Ivan/OSM-Feature-Search)
