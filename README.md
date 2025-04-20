@@ -7,10 +7,6 @@
 
 - [NomadNet](https://github.com/Sudo-Ivan/NomadNet) - Rootless, Chainguard images, Resource limits. 
 
-## OSINT
-
-- [OSM-Feature-Search](https://github.com/Sudo-Ivan/OSM-Feature-Search)
-
 # Donations
 
 Ko-Fi: https://ko-fi.com/X8X610E5JL
