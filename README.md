@@ -5,7 +5,8 @@
 
 ### Custom Forks
 
-- [NomadNet](https://github.com/Sudo-Ivan/NomadNet) - Rootless, Chainguard images, Resource limits. 
+- [NomadNet](https://github.com/Sudo-Ivan/NomadNet) - Rootless, Chainguard images, Resource limits.
+- [Reticulum-Meshchat](https://github.com/Sudo-Ivan/reticulum-meshchat) - Rootless, Resource limits, Alpine image variants.
 
 # Donations
 
