@@ -1,7 +1,7 @@
 ## Reticulum Network Projects
 
-- [Reticulum-Go](https://github.com/Sudo-Ivan/Reticulum-Go)
-- [LXMFy Bot Framework](https://github.com/lxmfy/LXMFy)
+- [Reticulum-Go](https://github.com/Sudo-Ivan/Reticulum-Go) - Reticulum Network Stack Implementation.
+- [LXMFy Bot Framework](https://github.com/lxmfy/LXMFy) - Bot framework for the Reticulum Network Stack.
 
 ### Custom Forks
 
