@@ -13,6 +13,10 @@
 - [arcgis-utils](https://github.com/Sudo-Ivan/arcgis-utils) - A CLI to extract public arcgis layers and data and convert to various formats.
 - [arcgis-converter](https://github.com/Sudo-Ivan/arcgis-converter) - A client-side web app to extract public arcgis layers and data and convert to various formats.
 
+## OSINT
+
+- [Git Email Extractor](https://github.com/Sudo-Ivan/git-email-extractor) - A tool to extract email addresses from any git repository
+
 ## Data
 
 [Kiwi SDR Locations](https://github.com/Sudo-Ivan/web-sdr-locations/blob/main/data/kiwisdr_locations.geojson) - Automatically updated list of Kiwi SDR locations in various formats.
