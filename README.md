@@ -17,6 +17,10 @@
 
 - [Git Email Extractor](https://github.com/Sudo-Ivan/git-email-extractor) - A tool to extract email addresses from any git repository
 
+## Archiving
+
+- [Archiver-zim](https://github.com/Sudo-Ivan/archiver-zim) - My zim tool to archive videos and podcasts, supporting many sources (uses yt-dlp)
+
 ## Data
 
 [Kiwi SDR Locations](https://github.com/Sudo-Ivan/web-sdr-locations/blob/main/data/kiwisdr_locations.geojson) - Automatically updated list of Kiwi SDR locations in various formats.
