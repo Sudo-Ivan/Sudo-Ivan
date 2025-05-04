@@ -22,9 +22,13 @@
 
 - [Archiver-zim](https://github.com/Sudo-Ivan/archiver-zim) - My zim tool to archive videos and podcasts, supporting many sources (uses yt-dlp)
 
+# GPS
+
+- [gps-timesync](https://github.com/Sudo-Ivan/gps-timesync) - A lightweight GPS time synchronization tool for Linux, BSD, and Windows systems.
+
 ## Data
 
-[Kiwi SDR Locations](https://github.com/Sudo-Ivan/web-sdr-locations/blob/main/data/kiwisdr_locations.geojson) - Automatically updated list of Kiwi SDR locations in various formats.
+- [Kiwi SDR Locations](https://github.com/Sudo-Ivan/web-sdr-locations/blob/main/data/kiwisdr_locations.geojson) - Automatically updated list of Kiwi SDR locations in various formats.
 
 # Donations
 
