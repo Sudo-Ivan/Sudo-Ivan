@@ -15,7 +15,8 @@
 
 ## OSINT
 
-- [Git Email Extractor](https://github.com/Sudo-Ivan/git-email-extractor) - A tool to extract email addresses from any git repository
+- [Git Email Extractor](https://github.com/Sudo-Ivan/git-email-extractor) - A tool to extract email addresses from any git repository.
+- [Steam Search](https://github.com/Sudo-Ivan/steam-search) - Search Steam profiles very fast with Wayback Machine integration and avatar downloads.
 
 ## Archiving
 
