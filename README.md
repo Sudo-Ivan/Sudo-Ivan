@@ -22,7 +22,7 @@
 
 - [Archiver-zim](https://github.com/Sudo-Ivan/archiver-zim) - My zim tool to archive videos and podcasts, supporting many sources (uses yt-dlp)
 
-# GPS
+## GPS
 
 - [gps-timesync](https://github.com/Sudo-Ivan/gps-timesync) - A lightweight GPS time synchronization tool for Linux, BSD, and Windows systems.
 
