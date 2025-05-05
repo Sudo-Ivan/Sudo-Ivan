@@ -21,6 +21,7 @@
 ## Archiving
 
 - [Archiver-zim](https://github.com/Sudo-Ivan/archiver-zim) - My zim tool to archive videos and podcasts, supporting many sources (uses yt-dlp)
+- [Website Archiver](https://github.com/Sudo-Ivan/website-archiver) - A tool for downloading web pages, snapshots from the Wayback Machine and creating into a ZIM file. (wget and zim-tools)
 
 ## GPS
 
