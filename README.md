@@ -8,6 +8,10 @@
 - [NomadNet](https://github.com/Sudo-Ivan/NomadNet) - Rootless, Chainguard images, Resource limits.
 - [Reticulum-Meshchat](https://github.com/Sudo-Ivan/reticulum-meshchat) - Rootless, Resource limits, Alpine image variants.
 
+## TUI Clients
+
+- [Discourse TUI Client](https://github.com/Sudo-Ivan/discourse-tui-client) - Simple discourse tui client in go and bubbletea.
+
 ## GIS
 
 - [arcgis-utils](https://github.com/Sudo-Ivan/arcgis-utils) - A CLI to extract public arcgis layers and data and convert to various formats.
