@@ -8,6 +8,7 @@
 
 - [NomadNet](https://github.com/Sudo-Ivan/NomadNet) - Rootless, Chainguard images, Resource limits.
 - [Reticulum-Meshchat](https://github.com/Sudo-Ivan/reticulum-meshchat) - Rootless, Resource limits, Alpine image variants.
+- [Reticulum](https://github.com/Sudo-Ivan/Reticulum) - Custom fork for experimenting. 
 
 ## TUI Clients
 
