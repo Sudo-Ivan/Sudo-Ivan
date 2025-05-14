@@ -21,11 +21,6 @@ LXMF: `c0cdcb64499e4f0d544ff87c9d5e2485`
 - [arcgis-utils](https://github.com/Sudo-Ivan/arcgis-utils) - A CLI to extract public arcgis layers and data and convert to various formats.
 - [arcgis-converter](https://github.com/Sudo-Ivan/arcgis-converter) - A client-side web app to extract public arcgis layers and data and convert to various formats.
 
-## OSINT
-
-- [Git Email Extractor](https://github.com/Sudo-Ivan/git-email-extractor) - A tool to extract email addresses from any git repository.
-- [Steam Search](https://github.com/Sudo-Ivan/steam-search) - Search Steam profiles very fast with Wayback Machine integration and avatar downloads.
-
 ## Archiving
 
 - [Archiver-zim](https://github.com/Sudo-Ivan/archiver-zim) - My zim tool to archive videos and podcasts, supporting many sources (uses yt-dlp)
