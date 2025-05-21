@@ -10,7 +10,8 @@ LXMF: `c0cdcb64499e4f0d544ff87c9d5e2485`
 
 - [NomadNet](https://github.com/Sudo-Ivan/NomadNet) - Rootless, Chainguard images, Resource limits.
 - [Reticulum-Meshchat](https://github.com/Sudo-Ivan/reticulum-meshchat) - Rootless, Resource limits, Alpine image variants.
-- [Reticulum](https://github.com/Sudo-Ivan/Reticulum) - Custom fork for experimenting. 
+- [Reticulum](https://github.com/Sudo-Ivan/Reticulum) - Custom fork for experimenting.
+- [rnsh](https://github.com/Sudo-Ivan/rnsh) - Custom fork of rnsh.
 
 ## TUI Clients
 
