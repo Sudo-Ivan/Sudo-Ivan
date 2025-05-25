@@ -34,7 +34,6 @@ LXMF: `c0cdcb64499e4f0d544ff87c9d5e2485`
 ## Data
 
 - [Kiwi SDR Locations](https://github.com/Sudo-Ivan/web-sdr-locations/blob/main/data/kiwisdr_locations.geojson) - Automatically updated list of Kiwi SDR locations in various formats.
-- [USGS Earthquake Data](https://github.com/Sudo-Ivan/usgs-data) - Automatically grabs USGS earthquake data from their feeds and archives it longer than 30 days. 
 
 # Donations
 
