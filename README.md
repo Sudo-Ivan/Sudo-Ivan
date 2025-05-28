@@ -5,6 +5,7 @@ LXMF: `c0cdcb64499e4f0d544ff87c9d5e2485`
 - [Reticulum-Go](https://github.com/Sudo-Ivan/Reticulum-Go) - Reticulum Network Stack Implementation.
 - [LXMFy Bot Framework](https://github.com/lxmfy/LXMFy) - Bot framework for the Reticulum Network Stack.
 - [RNS Status Page](https://github.com/Sudo-Ivan/rns-status-page) - Status page for Reticulum Network.
+- [RNS Page Node](https://github.com/Sudo-Ivan/rns-page-node) - A simple way to serve pages and files over the Reticulum Network.
 
 ### Custom Forks
 
