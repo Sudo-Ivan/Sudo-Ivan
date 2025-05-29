@@ -15,10 +15,6 @@ LXMF: `c0cdcb64499e4f0d544ff87c9d5e2485`
 - [Reticulum](https://github.com/Sudo-Ivan/Reticulum) - Custom fork for experimenting.
 - [rnsh](https://github.com/Sudo-Ivan/rnsh) - Custom fork of rnsh.
 
-## TUI Clients
-
-- [Discourse TUI Client](https://github.com/Sudo-Ivan/discourse-tui-client) - Simple discourse tui client in go and bubbletea.
-
 ## GIS
 
 - [arcgis-utils](https://github.com/Sudo-Ivan/arcgis-utils) - A CLI to extract public arcgis layers and data and convert to various formats.
@@ -28,14 +24,6 @@ LXMF: `c0cdcb64499e4f0d544ff87c9d5e2485`
 
 - [Archiver-zim](https://github.com/Sudo-Ivan/archiver-zim) - My zim tool to archive videos and podcasts, supporting many sources (uses yt-dlp)
 - [Website Archiver](https://github.com/Sudo-Ivan/website-archiver) - A tool for downloading web pages, snapshots from the Wayback Machine and creating into a ZIM file. (wget and zim-tools)
-
-## GPS
-
-- [gps-timesync](https://github.com/Sudo-Ivan/gps-timesync) - A lightweight GPS time synchronization tool for Linux, BSD, and Windows systems.
-
-## Data
-
-- [Kiwi SDR Locations](https://github.com/Sudo-Ivan/web-sdr-locations/blob/main/data/kiwisdr_locations.geojson) - Automatically updated list of Kiwi SDR locations in various formats.
 
 # Donations
 
