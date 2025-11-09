@@ -25,7 +25,7 @@
 
 These are intended for myself, but feel free to use.
 
-[go-no-telemetry](https://github.com/Sudo-Ivan/go-no-telemetry) - The Go programming language with stripped out telemetry
-[cryptography-no-rs](https://github.com/Sudo-Ivan/cryptography-no-rs) - Python cryptography package without Rust.
-[Swingmusic]([Swingmusic](https://github.com/Sudo-Ivan/Swingmusic)) - Swingmusic backend with offline recommendation engine and some other things.
-[reticulum-meshchatX](https://github.com/Sudo-Ivan/reticulum-meshchatX) - a updated fork with some custom changes and experimentation.
+- [go-no-telemetry](https://github.com/Sudo-Ivan/go-no-telemetry) - The Go programming language with stripped out telemetry
+- [cryptography-no-rs](https://github.com/Sudo-Ivan/cryptography-no-rs) - Python cryptography package without Rust.
+- [Swingmusic]([Swingmusic](https://github.com/Sudo-Ivan/Swingmusic)) - Swingmusic backend with offline recommendation engine and some other things.
+- [reticulum-meshchatX](https://github.com/Sudo-Ivan/reticulum-meshchatX) - a updated fork with some custom changes and experimentation.
