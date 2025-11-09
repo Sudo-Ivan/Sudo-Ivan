@@ -4,6 +4,7 @@
 - [RNS-over-HTTP](https://github.com/Sudo-Ivan/RNS-over-HTTP) - HTTP/S Interface for Reticulum
 - [Ren-Browser](https://github.com/Sudo-Ivan/Ren-Browser) - A page browser for the Reticulum Network built with Flet.
 - [LXMFy](https://github.com/lxmfy/LXMFy) - Comprehensive LXMF bot framework
+- [rns-status-page](https://github.com/Sudo-Ivan/rns-status-page) - Reticulum network status page
 
 ### Mapping/GIS
 - [arcgis-utils](https://github.com/Sudo-Ivan/arcgis-utils) - CLI tool and library to download data from various ArcGIS sources (Feature Layers, Feature Servers, Map Servers, ArcGIS Online Items including Web Maps) and convert it to common geospatial formats.
@@ -18,3 +19,13 @@
 - [obsidian-publish-downloader](https://github.com/Sudo-Ivan/obsidian-publish-downloader) - Download markdown files and images from a Obsidian Publish Site.
 - [simplelogin-cli](https://github.com/Sudo-Ivan/simplelogin-cli) - CLI tool for Simplelogin
 - [gps-timesync](https://github.com/Sudo-Ivan/gps-timesync) - A lightweight GPS time synchronization tool for Linux, BSD, and Windows systems.
+- [linktree-viewer](https://github.com/Sudo-Ivan/linktree-viewer) - View linktrees without the tracking or analytics
+
+### Forks
+
+These are intended for myself, but feel free to use.
+
+[go-no-telemetry](https://github.com/Sudo-Ivan/go-no-telemetry) - The Go programming language with stripped out telemetry
+[cryptography-no-rs](https://github.com/Sudo-Ivan/cryptography-no-rs) - Python cryptography package without Rust.
+[Swingmusic]([Swingmusic](https://github.com/Sudo-Ivan/Swingmusic)) - Swingmusic backend with offline recommendation engine and some other things.
+[reticulum-meshchatX](https://github.com/Sudo-Ivan/reticulum-meshchatX) - a updated fork with some custom changes and experimentation.
