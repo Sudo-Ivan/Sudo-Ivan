@@ -29,3 +29,9 @@ These are intended for myself, but feel free to use.
 - [cryptography-no-rs](https://github.com/Sudo-Ivan/cryptography-no-rs) - Python cryptography package without Rust.
 - [Swingmusic](https://github.com/Sudo-Ivan/Swingmusic) - Swingmusic backend with offline recommendation engine and some other things.
 - [reticulum-meshchatX](https://github.com/Sudo-Ivan/reticulum-meshchatX) - a updated fork with some custom changes and experimentation.
+
+### Donations
+
+Buy Me a Coffee: https://buymeacoffee.com/rigthrx1e0
+Monero: `88XnEvNTWQj1VqLhMbDXyJf69o8AZ5DTcG1xPURgPXyZipPdSftVqMnJHKjRX6njpj8rK81NcquBs6eMLkAhU3aUJQ9KQM5`
+Bitcoin: `bc1q3zu8z6n0gujvm9pfwlqqnfwrw785juk9hpd4x7`
