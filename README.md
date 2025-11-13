@@ -4,6 +4,7 @@
 - [RNS-over-HTTP](https://github.com/Sudo-Ivan/RNS-over-HTTP) - HTTP/S Interface for Reticulum
 - [Ren-Browser](https://github.com/Sudo-Ivan/Ren-Browser) - A page browser for the Reticulum Network built with Flet.
 - [LXMFy](https://github.com/lxmfy/LXMFy) - Comprehensive LXMF bot framework
+- [RNS-Flet-App-Template](https://github.com/Sudo-Ivan/RNS-Flet-App-Template) - Template for creating Flet apps for Reticulum.
 
 ### Mapping/GIS
 - [arcgis-utils](https://github.com/Sudo-Ivan/arcgis-utils) - CLI tool and library to download data from various ArcGIS sources (Feature Layers, Feature Servers, Map Servers, ArcGIS Online Items including Web Maps) and convert it to common geospatial formats.
