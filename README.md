@@ -6,6 +6,11 @@
 - [LXMFy](https://github.com/lxmfy/LXMFy) - Comprehensive LXMF bot framework
 - [RNS-Flet-App-Template](https://github.com/Sudo-Ivan/RNS-Flet-App-Template) - Template for creating Flet apps for Reticulum.
 
+#### My Custom Forks for Reticulum
+- [micron-parser-js](https://github.com/Sudo-Ivan/micron-parser-js) - Micron Parser JavaScript implementation
+- [thechatroom](https://github.com/Sudo-Ivan/thechatroom) - IRC-стиль чата для Reticulum NomadNet
+- [reticulum-meshchatX](https://github.com/Sudo-Ivan/reticulum-meshchatX) - a updated fork with some custom changes and experimentation.
+
 ### Mapping/GIS
 - [arcgis-utils](https://github.com/Sudo-Ivan/arcgis-utils) - CLI tool and library to download data from various ArcGIS sources (Feature Layers, Feature Servers, Map Servers, ArcGIS Online Items including Web Maps) and convert it to common geospatial formats.
 
@@ -20,15 +25,6 @@
 - [simplelogin-cli](https://github.com/Sudo-Ivan/simplelogin-cli) - CLI tool for Simplelogin
 - [gps-timesync](https://github.com/Sudo-Ivan/gps-timesync) - A lightweight GPS time synchronization tool for Linux, BSD, and Windows systems.
 - [linktree-viewer](https://github.com/Sudo-Ivan/linktree-viewer) - View linktrees without the tracking or analytics
-
-### Forks
-
-These are intended for myself, but feel free to use.
-
-- [go-no-telemetry](https://github.com/Sudo-Ivan/go-no-telemetry) - The Go programming language with stripped out telemetry
-- [cryptography-no-rs](https://github.com/Sudo-Ivan/cryptography-no-rs) - Python cryptography package without Rust.
-- [Swingmusic](https://github.com/Sudo-Ivan/Swingmusic) - Swingmusic backend with offline recommendation engine and some other things.
-- [reticulum-meshchatX](https://github.com/Sudo-Ivan/reticulum-meshchatX) - a updated fork with some custom changes and experimentation.
 
 ### Donations
 
