@@ -7,8 +7,9 @@
 - [RNS-Flet-App-Template](https://github.com/Sudo-Ivan/RNS-Flet-App-Template) - Template for creating Flet apps for Reticulum.
 
 #### My Custom Forks for Reticulum
-- [micron-parser-js](https://github.com/Sudo-Ivan/micron-parser-js) - Micron Parser JavaScript implementation
-- [thechatroom](https://github.com/Sudo-Ivan/thechatroom) - IRC-стиль чата для Reticulum NomadNet
+- [micron-parser-js](https://github.com/Sudo-Ivan/micron-parser-js) - Micron Parser JavaScript implementation.
+- [thechatroom](https://github.com/Sudo-Ivan/thechatroom) - IRC-стиль чата для Reticulum NomadNet.
+- [rnsh](https://github.com/Sudo-Ivan/rnsh) - Custom fork of rnsh.
 - [reticulum-meshchatX](https://github.com/Sudo-Ivan/reticulum-meshchatX) - a updated fork with some custom changes and experimentation.
 
 ### Mapping/GIS
