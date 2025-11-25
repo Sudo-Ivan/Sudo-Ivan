@@ -5,6 +5,7 @@
 - [Ren-Browser](https://github.com/Sudo-Ivan/Ren-Browser) - A page browser for the Reticulum Network built with Flet.
 - [LXMFy](https://github.com/lxmfy/LXMFy) - Comprehensive LXMF bot framework
 - [RNS-Flet-App-Template](https://github.com/Sudo-Ivan/RNS-Flet-App-Template) - Template for creating Flet apps for Reticulum.
+- [RNS-Filesync](https://github.com/Sudo-Ivan/RNS-Filesync) - P2P File Synchronization Tool for Reticulum.
 
 #### My Custom Forks for Reticulum
 - [micron-parser-js](https://github.com/Sudo-Ivan/micron-parser-js) - Micron Parser JavaScript implementation.
