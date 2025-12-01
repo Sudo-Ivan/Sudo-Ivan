@@ -8,9 +8,8 @@
 - [RNS-Filesync](https://github.com/Sudo-Ivan/RNS-Filesync) - P2P File Synchronization Tool for Reticulum.
 
 #### My Custom Forks for Reticulum
-- [micron-parser-js](https://github.com/Sudo-Ivan/micron-parser-js) - Micron Parser JavaScript implementation.
+- [micron-parser-js](https://github.com/Sudo-Ivan/micron-parser-js) - Micron Parser JavaScript implementation w/ PWA and Russian translation.
 - [thechatroom](https://github.com/Sudo-Ivan/thechatroom) - IRC-стиль чата для Reticulum NomadNet.
-- [rnsh](https://github.com/Sudo-Ivan/rnsh) - Custom fork of rnsh.
 - [reticulum-meshchatX](https://github.com/Sudo-Ivan/reticulum-meshchatX) - a updated fork with some custom changes and experimentation.
 
 ### Mapping/GIS
