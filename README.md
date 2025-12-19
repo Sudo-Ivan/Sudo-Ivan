@@ -11,6 +11,6 @@ My public gitea instance is also behind Bunkerweb WAF. You will need to contact 
 
 **New project locations:**
 
-Reticulum-Go - https://git.quad4.io/Networks/Reticulum-Go
-rns-page-node - https://git.quad4.io/RNS-Things/rns-page-node
-RNS-over-HTTP/S - https://git.quad4.io/Reticulum-Interfaces/RNS-over-HTTP
+1. Reticulum-Go - https://git.quad4.io/Networks/Reticulum-Go
+2. rns-page-node - https://git.quad4.io/RNS-Things/rns-page-node
+3. RNS-over-HTTP/S - https://git.quad4.io/Reticulum-Interfaces/RNS-over-HTTP
