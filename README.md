@@ -2,7 +2,7 @@ I am moving to my own public Gitea instance https://git.quad4.io/explore/repos. 
 
 **Why:**
 
-I have been using Gitea instances already and just setup push mirrors to GitHub to get obseravability, but I no longer care amid the raising issues:
+I have been using Gitea instances already and just setup push mirrors to GitHub to get discoverability, but I no longer care because:
 
 - GitHub AI sloppification
 - AI bros with no morals
