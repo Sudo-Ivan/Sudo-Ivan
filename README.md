@@ -1,13 +1,15 @@
-I am moving to my own public Gitea instance https://git.quad4.io/explore/repos which is behind a WAF. Some projects will also be mirrored to lavaforge instance: https://lavaforge.org/Ivan
+I am moving to my own public Gitea instance https://git.quad4.io/explore/repos. Some projects will also be mirrored to lavaforge instance: https://lavaforge.org/Ivan
 
 **Why:**
 
-- GitHub AI sloppification
-- AI bros
-- Microsoft
-- I was already using Gitea with push mirrors.
+I have been using Gitea instances already and just setup push mirrors to GitHub to get obseravability, but I no longer care amid the raising issues:
 
-My public gitea instance is also behind Bunkerweb WAF. You will need to contact me over LXMF, XMPP or Email for any issues, ideas or how to contribute. 
+- GitHub AI sloppification
+- AI bros with no morals
+- Entitled people
+- Microsoft continuing to make GitHub worse.
+
+My public gitea instance is also behind Bunkerweb WAF to fight back against the bots and scrapers that are constantly hammering git instances. You will need to contact me over LXMF, XMPP or Email for any issues, ideas or how to contribute. 
 
 **New project locations:**
 
