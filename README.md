@@ -9,7 +9,7 @@ I have been using Gitea instances already and just setup push mirrors to GitHub 
 - Entitled people
 - Microsoft continuing to make GitHub worse.
 
-My public gitea instance is also behind Bunkerweb WAF to fight back against the bots and scrapers that are constantly hammering git instances. You will need to contact me over LXMF, XMPP or Email for any issues, ideas or how to contribute. 
+My public gitea instance is also behind Bunkerweb WAF to fight back against the bots and scrapers that are constantly hammering my instance. You will need to contact me over LXMF, XMPP or Email for any issues, ideas or how to contribute.
 
 **New project locations:**
 
