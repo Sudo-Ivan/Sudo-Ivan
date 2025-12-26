@@ -1,15 +1,4 @@
-I am moving to my own public Gitea instance https://git.quad4.io/explore/repos. Some projects will also be mirrored to lavaforge instance: https://lavaforge.org/Ivan
-
-**Why:**
-
-I have been using Gitea instances already and just setup push mirrors to GitHub to get discoverability, but I no longer care because:
-
-- GitHub AI sloppification
-- AI bros with no morals
-- Entitled people
-- Microsoft continuing to make GitHub worse.
-
-My public gitea instance is also behind Bunkerweb WAF to fight back against the bots and scrapers that are constantly hammering my instance. You will need to contact me over LXMF, XMPP or Email for any issues, ideas or how to contribute.
+I have moved to my own Gitea instance: https://git.quad4.io/explore/repos
 
 **New project locations:**
 
