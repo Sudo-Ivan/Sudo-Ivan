@@ -1,4 +1,6 @@
-I have moved to my own Gitea instance: https://git.quad4.io/explore/repos
+Most of my projects have moved to my own Gitea instance: https://git.quad4.io/explore/repos
+
+Some may be mirrored here to use the free Windows/Mac machine runners.
 
 **New project locations:**
 
